@@ -70,8 +70,10 @@ def get_receipt_path(receipt_img) -> str:
 
 def easy_ocr(receipt_img) -> dict:
     """parse the receipt image
+    :pre-condition: start with a receipt image
+    :post-condition: produce a dictionary of raw recipt data
     :param receipt_img: <str> receipt image path
-    :return: <dict> receipt data
+    :return: <dict> of lists receipt data
     """
     receipt_raw = READER.readtext(receipt_img, detail=1, paragraph=False) # list
     length_of_result = len(receipt_raw)
@@ -89,6 +91,11 @@ def easy_ocr(receipt_img) -> dict:
 
 def parse_receipt(length_of_result, receipt_data, receipt_raw):
     """Parses the receipts cleanly
+    :pre-condition: raw receipt data
+    :post-condition: clean receipt data (relatively)
+    :param length_of_result: <int> length of the raw result
+    :parm receipt_data: <dict> populate this receipt data dict
+    :param receipt_raw: <list> supply the raw data list
     """
     store_name = parse_store_name(length_of_result, receipt_raw)
     if store_name == 'Costco':
@@ -97,7 +104,10 @@ def parse_receipt(length_of_result, receipt_data, receipt_raw):
         clean_standard_receipt(length_of_result, receipt_data, receipt_raw)
 
 def parse_store_name(length_of_result: int, receipt_raw: list) -> None:
-    """loop through the receipts' contents and determine what store it belongs to.
+    """loop through the receipts' contents and determine what store it belongs to, each receipt is different!
+    :param length_of_result: <int> length of the raw result
+    :parm receipt_data: <dict> populate this receipt data dict
+    :param receipt_raw: <list> supply the raw data list
     """
     for i in range(length_of_result):
         if "#" in receipt_raw[i][1]:
@@ -106,6 +116,8 @@ def parse_store_name(length_of_result: int, receipt_raw: list) -> None:
 
 def clean_costco_receipt(length_of_result: int, receipt_data: dict, receipt_raw: list) -> None:
     """standard receipt cleaning from a raw text output of Costco receipt_raw argument
+    :pre-condition: raw receipt data
+    :post-condition: clean costco receipt data (relatively)
     :param length_of_result: <int> length of the raw result
     :parm receipt_data: <dict> populate this receipt data dict
     :param receipt_raw: <list> supply the raw data list
@@ -132,6 +144,8 @@ def clean_costco_receipt(length_of_result: int, receipt_data: dict, receipt_raw:
 def clean_standard_receipt(length_of_result: int, receipt_data: dict, receipt_raw: list) -> None:
     """standard receipt cleaning from a raw text output of standard receipt_raw argument
     Info: No tuples allowed to be written in a JSON file
+    :pre-condition: raw receipt data
+    :post-condition: clean receipt data (relatively)
     :param length_of_result: <int> length of the raw result
     :parm receipt_data: <dict> populate this receipt data dict
     :param receipt_raw: <list> supply the raw data list
@@ -155,7 +169,8 @@ def clean_standard_receipt(length_of_result: int, receipt_data: dict, receipt_ra
                 receipt_data["groceries"].append([str(name), price])
 
 def write_cache_file(receipt_data: dict) -> None:
-    """write to cache file so as to not keep waiting for the ocr system
+    """write to cache file so as to not loop over the recipt files that has already been parsed
+    :parm receipt_data: <dict> populate this receipt data dict
     """
     if not receipt_data:
         return None
@@ -175,6 +190,8 @@ def write_cache_file(receipt_data: dict) -> None:
 
 def read_cache_file() -> list:
     """read the current json file and return the data dictionary
+    :parm receipt_data: <dict> populate this receipt data dict
+    :returns: <list> of dictionaries
     """
     json_file_name = os.getcwd() + '/result.json'
     data = []
@@ -185,6 +202,8 @@ def read_cache_file() -> list:
 
 def get_files_from_cache(base_name: Optional[bool]) -> tuple:
     """read the current json file and get the image files from that
+    :param base_name: <bool> truncate the file name from the tail and get the head only
+    :returns: <tuple> file names
     """
     data = read_cache_file()
     file_names = ()
@@ -197,7 +216,7 @@ def get_files_from_cache(base_name: Optional[bool]) -> tuple:
 
 def write_to_file(receipt_data: dict) -> None:
     """write to file
-    :param receipt_data: <dict> write this receipt data to json file
+    :param receipt_data: <dict> write this receipt data to csv file
     """
     if not receipt_data:
         return None
