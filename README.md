@@ -2,6 +2,10 @@
 Part of the Stanford's Code In Place Project, using easyocr module to parse receipt images and write them to files.
 both .JSON and .CSV files are created
 
+# pre-requisites:
+Python 3.10+
+python -m pip install easyocr
+
 ## info
 .JSON cache file is created to verify existing files and to skip the ocr read because it takes a long time to parse each receipt.
 
