@@ -1,0 +1,812 @@
+[
+    {
+        "file_name": "D:\\Work\\Pipeline\\read_receipts\\receipts\\11-08-2023-Costco_1.jpg",
+        "store_location": "山1111ngdan",
+        "groceries": [
+            [
+                "10581! FORLL: PERR",
+                "9.99"
+            ],
+            [
+                "76410' TP0/283617",
+                "3.50"
+            ],
+            [
+                "4FK",
+                "6.99"
+            ],
+            [
+                "167864:1 SWET JNIONS",
+                "6.99"
+            ],
+            [
+                "18109! CHKV STRIPS",
+                "24.99"
+            ],
+            [
+                "107611i MINI BLLAS",
+                "5.19"
+            ],
+            [
+                "232990 SMKD TIC SBE",
+                "17.19"
+            ],
+            [
+                "171198! STOAB: BINS",
+                "19.99"
+            ],
+            [
+                "RESINITE",
+                "21.99"
+            ],
+            [
+                "599010 LAV1Z24 IKG",
+                "16.49"
+            ],
+            [
+                "1760514 TP0/593010",
+                "3.50"
+            ],
+            [
+                "1323110 KS JARHMENT",
+                "17.99"
+            ],
+            [
+                "1564064 STRIWB RRIES",
+                "7.99"
+            ],
+            [
+                "127993 ALCFN :OIL",
+                "15.99"
+            ],
+            [
+                "1647794 DILLPIKLEZP",
+                "7.99"
+            ],
+            [
+                "1647794 OIL PIKLEZP",
+                "7.99"
+            ],
+            [
+                "1325075 OX0 卯? POP",
+                "89.99"
+            ],
+            [
+                "216945 FETA CUMBLE",
+                "14.79"
+            ],
+            [
+                "1004924 AMBROSIA APP",
+                "10.99"
+            ],
+            [
+                "SW'OTAL",
+                "341.57"
+            ],
+            [
+                "TAX",
+                "20.76"
+            ],
+            [
+                "MOUNT",
+                "362.33"
+            ],
+            [
+                "Inturac",
+                "362.33"
+            ],
+            [
+                "CHAIIBE",
+                "0.00"
+            ],
+            [
+                "p) PST 7",
+                "12.11"
+            ],
+            [
+                "6) GST 5",
+                "8.65"
+            ]
+        ],
+        "store_name": "Costco: #548"
+    },
+    {
+        "file_name": "D:\\Work\\Pipeline\\read_receipts\\receipts\\12-11-2023-Costco_1.jpg",
+        "store_location": "Vancouver",
+        "groceries": [
+            [
+                "1259958 COCONUT 2KG",
+                "9.89"
+            ],
+            [
+                "1647794 DILLPICKLEZP",
+                "7.99"
+            ],
+            [
+                "1570675 SWEETKALEDUO",
+                "7.99"
+            ],
+            [
+                "1761674 SUNCO BERRY",
+                "11.99"
+            ],
+            [
+                "599010 LAVAZZA IKe",
+                "16.49"
+            ],
+            [
+                "128888 VECTOR JUHd0",
+                "10.99"
+            ],
+            [
+                "937319 BOUL CLEMNER",
+                "13.79"
+            ],
+            [
+                "SUBTOTAL",
+                "79.13"
+            ],
+            [
+                "TAX",
+                "2.26"
+            ],
+            [
+                "00",
+                "81.39"
+            ]
+        ],
+        "store_name": "Costco: #552"
+    },
+    {
+        "file_name": "D:\\Work\\Pipeline\\read_receipts\\receipts\\August-31--2023_1.jpg",
+        "store_location": "Vancouver",
+        "groceries": [
+            [
+                "1715609 CHCCO PECANS",
+                "14.99"
+            ],
+            [
+                "4458722 AXPUREX BTKK",
+                "25.99"
+            ],
+            [
+                "SUBTOTAL",
+                "40.98"
+            ],
+            [
+                "TAX",
+                "3.87"
+            ],
+            [
+                "Interac",
+                "44.85"
+            ],
+            [
+                "CHANBE",
+                "0.00"
+            ],
+            [
+                "PST 7",
+                "1.82"
+            ],
+            [
+                "BST !",
+                "2.0"
+            ]
+        ],
+        "store_name": "Costco: #552"
+    },
+    {
+        "file_name": "D:\\Work\\Pipeline\\read_receipts\\receipts\\costco-2024-01-26_1.jpg",
+        "store_location": "Vancouwer",
+        "groceries": [
+            [
+                "1652577 KS UNSLT NUT",
+                "17.99"
+            ],
+            [
+                "1703703 CHOCTRAILMIX",
+                "13.99"
+            ],
+            [
+                "2941400 JAMIESON VIT",
+                "13.99"
+            ],
+            [
+                "1787390 TP0/2941400",
+                "4.00"
+            ],
+            [
+                "2321410 VIT 8100",
+                "28.99"
+            ],
+            [
+                "360704 KS BLUEBERRY",
+                "12.99"
+            ],
+            [
+                "1215098 KS ORB VEBS",
+                "11.99"
+            ],
+            [
+                "1727590 CASCADE PLUS",
+                "27.99"
+            ],
+            [
+                "SUBTOTAL",
+                "123.93"
+            ],
+            [
+                "TAX",
+                "6.91"
+            ],
+            [
+                "兴*头*  TOTAL",
+                "80.84"
+            ],
+            [
+                "AMOUNT:",
+                "130.84"
+            ],
+            [
+                "Interac",
+                "130.84"
+            ],
+            [
+                "CHANBE",
+                "0.00"
+            ],
+            [
+                "PST 74",
+                "1.96"
+            ],
+            [
+                "BST 58",
+                "4.95"
+            ]
+        ],
+        "store_name": "Costco: #552"
+    },
+    {
+        "file_name": "D:\\Work\\Pipeline\\read_receipts\\receipts\\Costco-2024-May-15_1.jpg",
+        "store_location": "#552",
+        "store_name": "Costco: #552",
+        "groceries": [
+            [
+                "1711327 MRNBO HABNRO",
+                "7.99"
+            ],
+            [
+                "128888 VECTOR JUMBO",
+                "10.99"
+            ],
+            [
+                "4458722 XXPUREX BTXX",
+                "24.99"
+            ],
+            [
+                "1827022 TPD/TISSUES",
+                "5.00"
+            ],
+            [
+                "SUBTOTAL",
+                "38.97"
+            ],
+            [
+                "TAX",
+                "2.80"
+            ],
+            [
+                "Interac",
+                "41.77"
+            ],
+            [
+                "CANFE",
+                "0.00"
+            ],
+            [
+                "ITEMS",
+                "5.00"
+            ]
+        ]
+    },
+    {
+        "file_name": "D:\\Work\\Pipeline\\read_receipts\\receipts\\costco-27-08-2023_1.jpg",
+        "store_location": "vancouver",
+        "groceries": [
+            [
+                "1527123 yIE0 STRAW",
+                "13.19"
+            ],
+            [
+                "SUBTOTAL",
+                "24.48"
+            ],
+            [
+                "TAX",
+                "0.67"
+            ],
+            [
+                "Interac",
+                "25.15"
+            ],
+            [
+                "CHANBE",
+                "0.00"
+            ],
+            [
+                "(6) GST 5",
+                "0.67"
+            ],
+            [
+                "EXPO",
+                "10.99"
+            ]
+        ]
+    },
+    {
+        "file_name": "D:\\Work\\Pipeline\\read_receipts\\receipts\\Costco-April-04-2024_1.jpg",
+        "store_location": "Vancouver",
+        "groceries": [
+            [
+                "21927 LEAN B BEEF",
+                "25.78"
+            ],
+            [
+                "4907 TROP DRIG QJ",
+                "16.89"
+            ],
+            [
+                "ENVIRO FEE C",
+                "0.04"
+            ],
+            [
+                "IEPOSIT CL",
+                "0.40"
+            ],
+            [
+                "TRX",
+                "0.00"
+            ],
+            [
+                "AMOUNT :",
+                "43.11"
+            ],
+            [
+                "CHANBE",
+                "0.00"
+            ]
+        ],
+        "store_name": "Costco: #552"
+    },
+    {
+        "file_name": "D:\\Work\\Pipeline\\read_receipts\\receipts\\CostCo-May-06-2026_1.jpg",
+        "store_location": "#552",
+        "store_name": "Costco: #552",
+        "groceries": [
+            [
+                "18600 MANDARINS",
+                "9.79"
+            ],
+            [
+                "342233 BOBS OATHEAL",
+                "16.99"
+            ],
+            [
+                "1728959 IHNISH MPLE",
+                "9.99"
+            ],
+            [
+                "1388341 d HEMe",
+                "16.99"
+            ],
+            [
+                "儿",
+                "66.75"
+            ],
+            [
+                "TAX",
+                "0.00"
+            ],
+            [
+                "HMCIJNT :",
+                "66.75"
+            ],
+            [
+                "Interac",
+                "66.75"
+            ],
+            [
+                "CHANBE",
+                "0.00"
+            ]
+        ]
+    },
+    {
+        "file_name": "D:\\Work\\Pipeline\\read_receipts\\receipts\\Costco-May-28-2024_1.jpg",
+        "store_location": "Vancouver",
+        "groceries": [
+            [
+                "36155 POTATUEf",
+                "7.99"
+            ],
+            [
+                "1647794 CRMYDIILPCKL",
+                "7.99"
+            ],
+            [
+                "891394 AUSSIE RITES",
+                "15.19"
+            ],
+            [
+                "1652577 KS USIT N",
+                "17.99"
+            ],
+            [
+                "10634 SAUSREA",
+                "18.27"
+            ],
+            [
+                "1647*794 CRMYDIULPCKL",
+                "7.99"
+            ],
+            [
+                "1303489 OIKOS 1850",
+                "12.99"
+            ],
+            [
+                "1218296 SILVERIRO",
+                "13.19"
+            ],
+            [
+                "SUBTOTRL",
+                "102.20"
+            ],
+            [
+                "TRX",
+                "0.90"
+            ],
+            [
+                "Interac",
+                "103.10"
+            ],
+            [
+                "CHANBE",
+                "0.00"
+            ]
+        ],
+        "store_name": "Costco: #552"
+    },
+    {
+        "file_name": "D:\\Work\\Pipeline\\read_receipts\\receipts\\CostcoSausages-11-09-2023_1.jpg",
+        "store_location": "Vancouver",
+        "groceries": [
+            [
+                "232990 SMKD TIC SBE",
+                "7.49"
+            ],
+            [
+                "AMOUNT:",
+                "17.49"
+            ],
+            [
+                "Interec",
+                "17.49"
+            ]
+        ],
+        "store_name": "Costco: #552"
+    },
+    {
+        "file_name": "D:\\Work\\Pipeline\\read_receipts\\receipts\\Document 3_1.jpg",
+        "store_location": "Vanccuver",
+        "groceries": [
+            [
+                "2000658 CKNOITES",
+                "16.99"
+            ],
+            [
+                "1748420 FRONTY MIX",
+                "10.89"
+            ],
+            [
+                "5000195 CR 阳 CQOKIE",
+                "12.99"
+            ],
+            [
+                "1647794 CRIDILLPCKL",
+                "7.99"
+            ],
+            [
+                "WIENERS",
+                "14.49"
+            ],
+            [
+                "1570675 SWHETKALEDU0",
+                "7.99"
+            ],
+            [
+                "BRAPES",
+                "11.99"
+            ],
+            [
+                "SUBTOTR",
+                "90.32"
+            ],
+            [
+                "TAX",
+                "0.54"
+            ],
+            [
+                "Interac",
+                "90.86"
+            ],
+            [
+                "90.86",
+                "0.00"
+            ],
+            [
+                "(6) GST 壁",
+                "0.54"
+            ],
+            [
+                "MXT7e 13;58:49  552 204 160 704",
+                "6.99"
+            ]
+        ],
+        "store_name": "Costco: #552"
+    },
+    {
+        "file_name": "D:\\Work\\Pipeline\\read_receipts\\receipts\\January-09-2023_1.jpg",
+        "store_location": "104",
+        "groceries": [
+            [
+                "SWEETKALEDUO",
+                "7.99"
+            ],
+            [
+                "CRMYDILLPCKL",
+                "7.99"
+            ],
+            [
+                "10639 SRUSABE",
+                "17.85"
+            ],
+            [
+                "1218296 SILVERAD0",
+                "12.99"
+            ],
+            [
+                "5164 BLUEBERRIES",
+                "9.99"
+            ],
+            [
+                "1751110 ARRABBIATA",
+                "8.99"
+            ],
+            [
+                "3911  RAINBOW TORT",
+                "17.49"
+            ],
+            [
+                "矧7 TROP ORIG 0J",
+                "16.99"
+            ],
+            [
+                "DEPOSTT C",
+                "0.04"
+            ],
+            [
+                "SBTOTAL",
+                "100.72"
+            ],
+            [
+                "TK",
+                "0.00"
+            ],
+            [
+                "M FPPROVED",
+                "100.72"
+            ],
+            [
+                "Interac",
+                "100.72"
+            ]
+        ]
+    },
+    {
+        "file_name": "D:\\Work\\Pipeline\\read_receipts\\receipts\\Receipt_2024.jpg",
+        "store_name": "Costco: Save-on-foods #907",
+        "store_location": "6,C. OWNNED AND OPERATED",
+        "groceries": [
+            [
+                "Chicken Breast",
+                "14.00"
+            ],
+            [
+                "Dryland 2% Milk 2L",
+                "4.69"
+            ],
+            [
+                "Meposit",
+                "0.10"
+            ],
+            [
+                "xReycle Fee",
+                "0.05"
+            ],
+            [
+                "ORGANIC ONIONS",
+                "6.29"
+            ],
+            [
+                "CRGNC FRNCH VAN YBRT",
+                "6.49"
+            ],
+            [
+                "Card $4.49 Save",
+                "2.00"
+            ],
+            [
+                "POTATOES 4072",
+                "8.68"
+            ],
+            [
+                "ROMAS 4087",
+                "4.25"
+            ],
+            [
+                "4.25",
+                "0.775"
+            ],
+            [
+                "SOF Rcyclb Tshrt Bg",
+                "0.35"
+            ],
+            [
+                "Webber Omeoa 3",
+                "25.49"
+            ],
+            [
+                "WF  12 Grain Bread",
+                "4.19"
+            ],
+            [
+                "WF Large Eggs 12",
+                "4.29"
+            ],
+            [
+                "GST",
+                "23.29"
+            ],
+            [
+                "23.29",
+                "1.16"
+            ],
+            [
+                "PST",
+                "0.35"
+            ],
+            [
+                "0.35",
+                "0.02"
+            ]
+        ]
+    },
+    {
+        "file_name": "D:\\Work\\Pipeline\\read_receipts\\receipts\\SaveOn-April-02-2024.jpg",
+        "store_location": "8.C. OHNED AMD OPERATED",
+        "groceries": [
+            [
+                "Saveonfoods .COm",
+                "6.5"
+            ],
+            [
+                "Chicken Breast",
+                "14.00"
+            ],
+            [
+                "Dryland 2% Milk 2L",
+                "4.69"
+            ],
+            [
+                "neposit",
+                "0.10"
+            ],
+            [
+                "xReycle Fee",
+                "0.05"
+            ],
+            [
+                "ORGANIC ONIONS",
+                "6.29"
+            ],
+            [
+                "CRNC FRNCH VAN YBRT",
+                "6.49"
+            ],
+            [
+                "Card $4.49 Save",
+                "2.00"
+            ],
+            [
+                "POTATOES 4072",
+                "8.68"
+            ],
+            [
+                "ROMAS 4087",
+                "4.25"
+            ],
+            [
+                "SOF Rcyclb Tshrt Bg",
+                "0.35"
+            ],
+            [
+                "Webber Omeoa 3",
+                "25.49"
+            ],
+            [
+                "WF  12 Grain Bread",
+                "4.19"
+            ],
+            [
+                "WF Large Eggs 12",
+                "4.29"
+            ],
+            [
+                "GST",
+                "23.29"
+            ],
+            [
+                "23.29",
+                "0.35"
+            ],
+            [
+                "0.35",
+                "0.02"
+            ],
+            [
+                "(PE: Purchase",
+                "73.79"
+            ],
+            [
+                "u_",
+                "1.16"
+            ]
+        ]
+    },
+    {
+        "file_name": "D:\\Work\\Pipeline\\read_receipts\\receipts\\sept20-2023-Costco_1.jpg",
+        "store_name": "Costco: #552",
+        "store_location": "605",
+        "groceries": [
+            [
+                "5577780 'Ks1 200MB",
+                "12.99"
+            ],
+            [
+                "1046334 CROISSANT",
+                "6.99"
+            ],
+            [
+                "1215098 KS 0RB VEBS",
+                "11.99"
+            ],
+            [
+                "731448 KS JLLY 盹",
+                "14.99"
+            ],
+            [
+                "1468660 3 BEAN CHILI",
+                "14.9"
+            ],
+            [
+                "313963 KS 0RB EGES",
+                "12.99"
+            ],
+            [
+                "AMOUNT ",
+                "76.34"
+            ]
+        ]
+    }
+]
